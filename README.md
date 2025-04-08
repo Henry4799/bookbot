@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+BookBot will sort and count letters in any text file
